@@ -1,0 +1,11 @@
+id = "vhdl"
+name = "VHDL"
+version = "0.0.1"
+schema_version = 1
+authors = ["Matthieu Michon <matthieu.michon@gmail.com>"]
+description = "VHDL support"
+repository = "https://github.com/MatthieuMichon/zed-vhdl-tsp"
+
+[grammars.vhdl]
+repository = "https://github.com/jpt13653903/tree-sitter-vhdl"
+commit = "d6e8301999336b47d663052d43f983c3edeb01dd"

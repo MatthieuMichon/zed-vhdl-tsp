@@ -1,6 +1,6 @@
 id = "vhdl"
 name = "VHDL"
-version = "0.0.2"
+version = "0.0.3"
 schema_version = 1
 authors = ["Matthieu Michon <matthieu.michon@gmail.com>"]
 description = "VHDL support"
